@@ -1,0 +1,9 @@
+
+# Ignore everything else by default
+*
+
+# Include important files
+!*.ipynb
+!*.py
+!*.md
+!.gitignore
